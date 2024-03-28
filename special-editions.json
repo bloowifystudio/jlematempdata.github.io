@@ -3,21 +3,21 @@
     "name": "Merry Christmas 2023",
     "token_id": "0",
     "description": "This is a special edition to celebrate Christmas 2023.",
-    "image": "ipfs://QmQMFeyvtZFmPqMtnBBoZCHw7p9itbgJxQCGjBVXikR9da/0.png",
+    "image": "https://bloowifystudio.github.io/jlematempdata.github.io/0.png",
     "supply": "113"
   },
   {
     "name": "Welcome 2024",
     "token_id": "1",
     "description": "This is a special edition to celebrate the new year 2024.",
-    "image": "ipfs://Qmcx4pkFNotnwpsgPyU8ehq2QvvyUD9nCoqQvbSz9exWy4/1.PNG",
+    "image": "https://bloowifystudio.github.io/jlematempdata.github.io/1.PNG",
     "supply": "119"
   },
   {
     "name": "Happy Lunar New Year 2024",
     "token_id": "1",
     "description": "This is a special edition to celebrate Lunar New Year 2024.",
-    "image": "ipfs://QmNgRotXXawscjoLwG2DRYs7eGyDy55gsRAvtFQ6bhXSKj/2.png",
+    "image": "https://bloowifystudio.github.io/jlematempdata.github.io/2.png",
     "supply": "25"
   }
 ]
