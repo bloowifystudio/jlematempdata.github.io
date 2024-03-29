@@ -1,0 +1,1694 @@
+[ 
+  { 
+    "name": "Cape", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/cape.png" 
+  }, 
+  { 
+    "name": "Mummy", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/mummy.png" 
+  }, 
+  { 
+    "name": "Usekh Collar", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/usekh-collar.png" 
+  }, 
+  { 
+    "name": "Epaulette", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/epaulette.png" 
+  }, 
+  { 
+    "name": "Knight", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/knight.png" 
+  }, 
+  { 
+    "name": "Turtle And Cloak", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/turtle-and-cloak.png" 
+  }, 
+  { 
+    "name": "Superhero", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/superhero.png" 
+  }, 
+  { 
+    "name": "Space Army", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/space-army.png" 
+  }, 
+  { 
+    "name": "Cyborg", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/cyborg.png" 
+  }, 
+  { 
+    "name": "Toga", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/toga.png" 
+  }, 
+  { 
+    "name": "Peasant Blouse", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/peasant-blouse.png" 
+  }, 
+  { 
+    "name": "Poncho", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/poncho.png" 
+  }, 
+  { 
+    "name": "Tunic", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/tunic.png" 
+  }, 
+  { 
+    "name": "Flame Shortsleeve", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/flame-shortsleeve.png" 
+  }, 
+  { 
+    "name": "Kungfu", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/kungfu.png" 
+  }, 
+  { 
+    "name": "Armor", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/armor.png" 
+  }, 
+  { 
+    "name": "Ninja Warrior", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/ninja-warrior.png" 
+  }, 
+  { 
+    "name": "Astronaut", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/astronaut.png" 
+  }, 
+  { 
+    "name": "Robe", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/Robe.png" 
+  }, 
+  { 
+    "name": "White Cloak", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/white-cloak.png" 
+  }, 
+  { 
+    "name": "Snake", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/snake.png" 
+  }, 
+  { 
+    "name": "King", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/king.png" 
+  }, 
+  { 
+    "name": "Warrior", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/warrior.png" 
+  }, 
+  { 
+    "name": "Shaman", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/shaman.png" 
+  }, 
+  { 
+    "name": "Bear Coat", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/bear-coat.png" 
+  }, 
+  { 
+    "name": "Cloak", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/cloak.png" 
+  }, 
+  { 
+    "name": "Prince", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/prince.png" 
+  }, 
+  { 
+    "name": "Armor Jacket", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/armor-jacket.png" 
+  }, 
+  { 
+    "name": "Swan", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/swan.png" 
+  }, 
+  { 
+    "name": "Fur Coat", 
+    "type": "Cloth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/fur-coat.png" 
+  }, 
+  { 
+    "name": "Sweater Vest", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/sweater-vest.png" 
+  }, 
+  { 
+    "name": "Suspernder Strap Black", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/suspernder-strap-black.png" 
+  }, 
+  { 
+    "name": "Shirt Suspender Strap", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/shirt-suspender-strap.png" 
+  }, 
+  { 
+    "name": "Vest Hoodie", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/vest-hoodie.png" 
+  }, 
+  { 
+    "name": "Skeleton Tee", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/skeleton-tee.png" 
+  }, 
+  { 
+    "name": "Turtle Neck Black", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/turtle-neck-black.png" 
+  }, 
+  { 
+    "name": "Sleeveless Tee Jlema", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/sleeveless-tee-jlema.png" 
+  }, 
+  { 
+    "name": "Tracksuit Black", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/tracksuit-black.png" 
+  }, 
+  { 
+    "name": "Sleeveless Hoodie", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/sleeveless-hoodie.png" 
+  }, 
+  { 
+    "name": "Viking Black Tee", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/viking-black-tee.png" 
+  }, 
+  { 
+    "name": "Striped Tee", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/striped-tee.png" 
+  }, 
+  { 
+    "name": "Viking Tee", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/viking-tee.png" 
+  }, 
+  { 
+    "name": "Vest", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/vest.png" 
+  }, 
+  { 
+    "name": "Suspernder Strap", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/suspernder-strap.png" 
+  }, 
+  { 
+    "name": "Scarf", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/scarf.png" 
+  }, 
+  { 
+    "name": "Skeleton Tanktop", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/skeleton-tanktop.png" 
+  }, 
+  { 
+    "name": "Turtle And Work Shirt", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/turtle-and-work-shirt.png" 
+  }, 
+  { 
+    "name": "Tracksuit White", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/tracksuit-white.png" 
+  }, 
+  { 
+    "name": "Varsity Jacket", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/varsity-jacket.png" 
+  }, 
+  { 
+    "name": "White Suit", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/white-suit.png" 
+  }, 
+  { 
+    "name": "Vertical Striped Shirt", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/vertical-striped-shirt.png" 
+  }, 
+  { 
+    "name": "Turtle And Sweater", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/turtle-and-sweater.png" 
+  }, 
+  { 
+    "name": "Sleeveless Tee Heart", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/sleeveless-tee-heart.png" 
+  }, 
+  { 
+    "name": "Turtle Neck White", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/turtle-neck-white.png" 
+  }, 
+  { 
+    "name": "Striped Tanktop", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/striped-tanktop.png" 
+  }, 
+  { 
+    "name": "Sleeveless White Hoodie", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/sleeveless-white-hoodie.png" 
+  }, 
+  { 
+    "name": "Top", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/top.png" 
+  }, 
+  { 
+    "name": "White T Overalls", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/white-t-overalls.png" 
+  }, 
+  { 
+    "name": "Shortsleeve White Vest", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/shortsleeve-white-vest.png" 
+  }, 
+  { 
+    "name": "Topless", 
+    "type": "Cloth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/topless.png" 
+  }, 
+  { 
+    "name": "Graphic Tee Star", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/graphic-tee-star.png" 
+  }, 
+  { 
+    "name": "Graphic Tee Skull", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/graphic-tee-skull.png" 
+  }, 
+  { 
+    "name": "Magic Vest", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/magic-vest.png" 
+  }, 
+  { 
+    "name": "Kimono", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/kimono.png" 
+  }, 
+  { 
+    "name": "Pocket Vest", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/pocket-vest.png" 
+  }, 
+  { 
+    "name": "Parachute", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/parachute.png" 
+  }, 
+  { 
+    "name": "Jlema Sleeveless Tee", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/jlema-sleeveless-tee.png" 
+  }, 
+  { 
+    "name": "Lines Cardigan", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/lines-cardigan.png" 
+  }, 
+  { 
+    "name": "Lighting Cutoff", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/lighting-cutoff.png" 
+  }, 
+  { 
+    "name": "Jlema Raglan", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/jlema-raglan.png" 
+  }, 
+  { 
+    "name": "Jlema Tee", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/jlema-tee.png" 
+  }, 
+  { 
+    "name": "Pocket Tee", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/pocket-tee.png" 
+  }, 
+  { 
+    "name": "Puffer Vest", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/puffer-vest.png" 
+  }, 
+  { 
+    "name": "White Tanktop", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/white-tanktop.png" 
+  }, 
+  { 
+    "name": "Sailor Shirt", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/sailor-shirt.png" 
+  }, 
+  { 
+    "name": "Pilot", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/pilot.png" 
+  }, 
+  { 
+    "name": "Jersey Black", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/jersey-black.png" 
+  }, 
+  { 
+    "name": "Raglan", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/raglan.png" 
+  }, 
+  { 
+    "name": "Oddfather", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/oddfather.png" 
+  }, 
+  { 
+    "name": "Indian", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/indian.png" 
+  }, 
+  { 
+    "name": "Monk", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/monk.png" 
+  }, 
+  { 
+    "name": "Hip Hop Chain", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/hip-hop-chain.png" 
+  }, 
+  { 
+    "name": "Kimono White", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/kimono-white.png" 
+  }, 
+  { 
+    "name": "Hoodie Overalls", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/hoodie-overalls.png" 
+  }, 
+  { 
+    "name": "Jersey", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/jersey.png" 
+  }, 
+  { 
+    "name": "Punk Jacket", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/punk-jacket.png" 
+  }, 
+  { 
+    "name": "Puffer", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/puffer.png" 
+  }, 
+  { 
+    "name": "Magic Sweater", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/magic-sweater.png" 
+  }, 
+  { 
+    "name": "White Hoodie", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/white-hoodie.png" 
+  }, 
+  { 
+    "name": "Rocker Vest", 
+    "type": "Cloth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/rocker-vest.png" 
+  }, 
+  { 
+    "name": "Clown", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/clown.png" 
+  }, 
+  { 
+    "name": "Collar Tee Overalls", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/collar-tee-overalls.png" 
+  },
+  { 
+    "name": "Caveman", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/caveman.png" 
+  }, 
+  { 
+    "name": "Dots Tee", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/dots-tee.png" 
+  },
+  { 
+    "name": "Black Cardigan", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/black-cardigan.png" 
+  },
+  { 
+    "name": "Classic Suit", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/classic-suit.png" 
+  }, 
+  { 
+    "name": "Graphic Tee Katakana", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/graphic-tee-katakana.png" 
+  },
+  { 
+    "name": "Collar Tee", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/collar-tee.png" 
+  }, 
+  { 
+    "name": "Black Hoodie", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/black-hoodie.png" 
+  },
+  { 
+    "name": "Big Striped Shirt", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/big-striped-shirt.png" 
+  },
+  { 
+    "name": "Business", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/business.png" 
+  }, 
+  { 
+    "name": "White Zipper", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/white-zipper.png" 
+  },
+  { 
+    "name": "Bomber", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/bomber.png" 
+  }, 
+  { 
+    "name": "Graphic Tee Flowers", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/graphic-tee-flowers.png" 
+  },
+  { 
+    "name": "Floral Shirt", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/floral-shirt.png" 
+  },
+  { 
+    "name": "Cult", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/cult.png" 
+  }, 
+  { 
+    "name": "Collar Tee Cutoff", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/collar-tee-cutoff.png" 
+  },
+  { 
+    "name": "Crossbody Bag", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/crossbody-bag.png" 
+  }, 
+  { 
+    "name": "Ethnic", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/ethnic.png" 
+  },
+  { 
+    "name": "Graphic Tee Katakana Square", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/graphic-tee-katakana-square.png" 
+  },
+  { 
+    "name": "Diamond Cardigan", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/diamond-cardigan.png" 
+  }, 
+  { 
+    "name": "Black Robe", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/black-robe.png" 
+  },
+  { 
+    "name": "Graphic Tee Peace", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/graphic-tee-peace.png" 
+  }, 
+  { 
+    "name": "Bandana Vest", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/bandana-vest.png" 
+  },
+  { 
+    "name": "Diamond Vest", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/diamond-vest.png" 
+  },
+  { 
+    "name": "Captain", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/captain.png" 
+  }, 
+  { 
+    "name": "Bandages", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/bandages.png" 
+  },
+  { 
+    "name": "Epron", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/epron.png" 
+  }, 
+  { 
+    "name": "Black White Short Sleeve", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/black-white-short-sleeve.png" 
+  },
+  { 
+    "name": "Zipper", 
+    "type": "Cloth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/cloth/zipper.png" 
+  },
+  { 
+    "name": "Hearts", 
+    "type": "Eyes", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/hearts.png" 
+  },
+  { 
+    "name": "Happy Note", 
+    "type": "Eyes", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/happy-note.png" 
+  },
+  { 
+    "name": "XX", 
+    "type": "Eyes", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/xx.png" 
+  },
+  { 
+    "name": "Sad Note", 
+    "type": "Eyes", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/sad-note.png" 
+  },
+  { 
+    "name": "Sad", 
+    "type": "Eyes", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/sad.png" 
+  },
+  { 
+    "name": "Squint", 
+    "type": "Eyes", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/squint.png" 
+  },
+  { 
+    "name": "Wink", 
+    "type": "Eyes", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/wink.png" 
+  },
+  { 
+    "name": "Trendy Glasses", 
+    "type": "Eyes", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/trendy-glasses.png" 
+  },
+  { 
+    "name": "Shield Glasses", 
+    "type": "Eyes", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/shield-glasses.png" 
+  },
+  { 
+    "name": "Sunglasses", 
+    "type": "Eyes", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/sunglasses.png" 
+  },
+  { 
+    "name": "Star Glasses", 
+    "type": "Eyes", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/star-glasses.png" 
+  },
+  { 
+    "name": "Thug Life Sunglasses", 
+    "type": "Eyes", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/thug-life-sunglasses.png" 
+  },
+  { 
+    "name": "Virtual Reality Headset", 
+    "type": "Eyes", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/virtual-reality-headset.png" 
+  },
+  { 
+    "name": "Rectangular Sunglasses", 
+    "type": "Eyes", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/rectangular-sunglasses.png" 
+  },
+  { 
+    "name": "Alien Eyes", 
+    "type": "Eyes", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/alien-eyes.png" 
+  },
+  { 
+    "name": "Glasses", 
+    "type": "Eyes", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/glasses.png" 
+  },
+  { 
+    "name": "Round Glasses", 
+    "type": "Eyes", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/round-glasses.png" 
+  },
+  { 
+    "name": "Suspicious", 
+    "type": "Eyes", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/suspicious.png" 
+  },
+  { 
+    "name": "Heart Glasses", 
+    "type": "Eyes", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/heart-glasses.png" 
+  },
+  { 
+    "name": "Half Frame Glasses", 
+    "type": "Eyes", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/half-frame-glasses.png" 
+  },
+  { 
+    "name": "Round Sunglasses", 
+    "type": "Eyes", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/round-sunglasses.png" 
+  },
+  { 
+    "name": "Sparkle", 
+    "type": "Eyes", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/sparkle.png" 
+  },
+  { 
+    "name": "Happy", 
+    "type": "Eyes", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/happy.png" 
+  },
+  { 
+    "name": "Angry", 
+    "type": "Eyes", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/angry.png" 
+  },
+  { 
+    "name": "Tired", 
+    "type": "Eyes", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/tired.png" 
+  },
+  { 
+    "name": "Shock", 
+    "type": "Eyes", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/shock.png" 
+  },
+  { 
+    "name": "Mishievous Gaze", 
+    "type": "Eyes", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/mishievous-gaze.png" 
+  },
+  { 
+    "name": "Neutral", 
+    "type": "Eyes", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/eyes/neutral.png" 
+  },
+  { 
+    "name": "Rose", 
+    "type": "Mouth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/rose.png" 
+  },
+  { 
+    "name": "Long Light Stubble Beard", 
+    "type": "Mouth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/long-light-stubble-beard.png" 
+  },
+  { 
+    "name": "Short Light Stubble Beard", 
+    "type": "Mouth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/short-light-stubble-beard.png" 
+  },
+  { 
+    "name": "Frown", 
+    "type": "Mouth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/frown.png" 
+  },
+  { 
+    "name": "Bulldog", 
+    "type": "Mouth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/bulldog.png" 
+  },
+  { 
+    "name": "Leaf", 
+    "type": "Mouth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/leaf.png" 
+  },
+  { 
+    "name": "Tongue", 
+    "type": "Mouth", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/tongue.png" 
+  },
+  { 
+    "name": "Short Beard-Frown", 
+    "type": "Mouth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/short-beard-frown.png" 
+  },
+  { 
+    "name": "Beard-Neutral", 
+    "type": "Mouth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/beard-neutral.png" 
+  },
+  { 
+    "name": "beard-frown", 
+    "type": "Mouth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/beard-frown.png" 
+  },
+  { 
+    "name": "Short Beard-Smile", 
+    "type": "Mouth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/short-beard-smile.png" 
+  },
+  { 
+    "name": "Beard-Smile", 
+    "type": "Mouth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/beard-smile.png" 
+  },
+  { 
+    "name": "Beard-Calm", 
+    "type": "Mouth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/beard-calm.png" 
+  },
+  { 
+    "name": "beard-shocked", 
+    "type": "Mouth", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/beard-shocked.png" 
+  },
+  { 
+    "name": "Fangs", 
+    "type": "Mouth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/fangs.png" 
+  },
+  { 
+    "name": "Cute", 
+    "type": "Mouth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/cute.png" 
+  },
+  { 
+    "name": "Kiss", 
+    "type": "Mouth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/kiss.png" 
+  },
+  { 
+    "name": "Calm", 
+    "type": "Mouth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/calm.png" 
+  },
+  { 
+    "name": "Drooling", 
+    "type": "Mouth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/drooling.png" 
+  },
+  { 
+    "name": "Half Smile", 
+    "type": "Mouth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/half-smile.png" 
+  },
+  { 
+    "name": "Happy", 
+    "type": "Mouth", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/happy.png" 
+  },
+  { 
+    "name": "Neutral", 
+    "type": "Mouth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/neutral.png" 
+  },
+  { 
+    "name": "Surprised", 
+    "type": "Mouth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/surprised.png" 
+  },
+  { 
+    "name": "Smile", 
+    "type": "Mouth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/smile.png" 
+  },
+  { 
+    "name": "Walrus Mustache", 
+    "type": "Mouth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/walrus-mustache.png" 
+  },
+  { 
+    "name": "Wave", 
+    "type": "Mouth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/wave.png" 
+  },
+  { 
+    "name": "Regular Mustache", 
+    "type": "Mouth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/regular-mustache.png" 
+  },
+  { 
+    "name": "Pencil Mustache", 
+    "type": "Mouth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/pencil-mustache.png" 
+  },
+  { 
+    "name": "Shocked", 
+    "type": "Mouth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/shocked.png" 
+  },
+  { 
+    "name": "Rich Uncle Mustache", 
+    "type": "Mouth", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/mouth/rich-uncle-mustache.png" 
+  },
+  { 
+    "name": "Melted", 
+    "type": "Skin", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/skin/melted.png" 
+  },
+  { 
+    "name": "Zombie", 
+    "type": "Skin", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/skin/zombie.png" 
+  },
+  { 
+    "name": "Old School Tattoos", 
+    "type": "Skin", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/skin/old-school-tattoos.png" 
+  },
+  { 
+    "name": "Neutral", 
+    "type": "Skin", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/skin/neutral.png" 
+  },
+  { 
+    "name": "Monkey Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/monkey-hat.png" 
+  },
+  { 
+    "name": "Mushroom", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/mushroom.png" 
+  },
+  { 
+    "name": "Fox Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/fox-hat.png" 
+  },
+  { 
+    "name": "Unicorn Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/unicorn-hat.png" 
+  },
+  { 
+    "name": "Shaman", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/shaman.png" 
+  },
+  { 
+    "name": "Eagle Feathers Headress", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/eagle-feathers-headress.png" 
+  },
+  { 
+    "name": "Penguin Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/penguin-hat.png" 
+  },
+  { 
+    "name": "Cat Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/cat-hat.png" 
+  },
+  { 
+    "name": "Astro Helmet", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/astro-helmet.png" 
+  },
+  { 
+    "name": "Steampunk Mask", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/steampunk-mask.png" 
+  },
+  { 
+    "name": "Kitsune", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/kitsune.png" 
+  },
+  { 
+    "name": "Shiba Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/shiba-hat.png" 
+  },
+  { 
+    "name": "Pirate Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/pirate-hat.png" 
+  },
+  { 
+    "name": "Oni Mask", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/oni-mask.png" 
+  },
+  { 
+    "name": "Bear Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/bear-hat.png" 
+  },
+  { 
+    "name": "Pepe", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/pepe.png" 
+  },
+  { 
+    "name": "Gladiator", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/gladiator.png" 
+  },
+  { 
+    "name": "Samurai Helmet", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/samurai-helmet.png" 
+  },
+  { 
+    "name": "Medusa", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/medusa.png" 
+  },
+  { 
+    "name": "Sombrero", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/sombrero.png" 
+  },
+  { 
+    "name": "Bunny Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/bunny-hat.png" 
+  },
+  { 
+    "name": "Crown", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/crown.png" 
+  },
+  { 
+    "name": "Shark Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/shark-hat.png" 
+  },
+  { 
+    "name": "Gat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/gat.png" 
+  },
+  { 
+    "name": "Pepe Bucket Hat", 
+    "type": "Head", 
+    "rarity": "Legendary", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/pepe-bucket-hat.png" 
+  },
+  { 
+    "name": "Clown", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/clown.png" 
+  },
+  { 
+    "name": "Ball", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/ball.png" 
+  },
+  { 
+    "name": "Straw Hat", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/straw-hat.png" 
+  },
+  { 
+    "name": "Turban", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/turban.png" 
+  },
+  { 
+    "name": "Panama", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/panama.png" 
+  },
+  { 
+    "name": "Top Hat", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/top-hat.png" 
+  },
+  { 
+    "name": "Gangster Bandana", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/gangster-bandana.png" 
+  },
+  { 
+    "name": "Flowers Headband", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/flowers-headband.png" 
+  },
+  { 
+    "name": "Pirate Bandana", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/pirate-bandana.png" 
+  },
+  { 
+    "name": "Party Hat", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/party-hat.png" 
+  },
+  { 
+    "name": "Sankaku", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/sankaku.png" 
+  },
+  { 
+    "name": "Ponytail", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/ponytail.png" 
+  },
+  { 
+    "name": "Dark Skateboard Helmet", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/dark-skateboard-helmet.png" 
+  },
+  { 
+    "name": "Headphone", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/headphone.png" 
+  },
+  { 
+    "name": "Mohawk Punk", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/mohawk-punk.png" 
+  },
+  { 
+    "name": "Dreadlocks Bandana", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/dreadlocks-bandana.png" 
+  },
+  { 
+    "name": "Kasa", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/kasa.png" 
+  },
+  { 
+    "name": "Santa Hat", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/santa-hat.png" 
+  },
+  { 
+    "name": "Sailor Cap", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/sailor-cap.png" 
+  },
+  { 
+    "name": "Witch Hat", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/witch-hat.png" 
+  },
+  { 
+    "name": "Ohenro", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/ohenro.png" 
+  },
+  { 
+    "name": "Sideways Snapback", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/sideways-snapback.png" 
+  },
+  { 
+    "name": "Skateboard Helmet", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/skateboard-helmet.png" 
+  },
+  { 
+    "name": "Dark Helmet", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/dark-helmet.png" 
+  },
+  { 
+    "name": "Frog Cap", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/frog-cap.png" 
+  },
+  { 
+    "name": "Traffic Cone", 
+    "type": "Head", 
+    "rarity": "Rare", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/traffic-cone.png" 
+  },
+  { 
+    "name": "Devil", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/devil.png" 
+  },
+  { 
+    "name": "Helmet", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/helmet.png" 
+  },
+  { 
+    "name": "Tie", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/tie.png" 
+  },
+  { 
+    "name": "Cowboy", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/cowboy.png" 
+  },
+  { 
+    "name": "Fedora", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/fedora.png" 
+  },
+  { 
+    "name": "Snapback", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/snapback.png" 
+  },
+  { 
+    "name": "Dark Fedora", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/dark-fedora.png" 
+  },
+  { 
+    "name": "Viking", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/viking.png" 
+  },
+  { 
+    "name": "Poopie", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/poopie.png" 
+  },
+  { 
+    "name": "Arc", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/arc.png" 
+  },
+  { 
+    "name": "Bucket Hat", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/bucket-hat.png" 
+  },
+  { 
+    "name": "Adventure", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/adventure.png" 
+  },
+  { 
+    "name": "Man Bun", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/man-bun.png" 
+  },
+  { 
+    "name": "Cat Cap", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/cat-cap.png" 
+  },
+  { 
+    "name": "Flat Cap", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/flat-cap.png" 
+  },
+  { 
+    "name": "Fisherman Hat", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/fisherman-hat.png" 
+  },
+  { 
+    "name": "Trucker", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/trucker.png" 
+  },
+  { 
+    "name": "Bowler", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/bowler.png" 
+  },
+  { 
+    "name": "Dark Beanie", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/dark-beanie.png" 
+  },
+  { 
+    "name": "Classic Snapback", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/classic-snapback.png" 
+  },
+  { 
+    "name": "Artist Hat", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/artist-hat.png" 
+  },
+  { 
+    "name": "Beanie", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/beanie.png" 
+  },
+  { 
+    "name": "Cuffed Beanie", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/cuffed-beanie.png" 
+  },
+  { 
+    "name": "Winter Hat", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/winter-hat.png" 
+  },
+  { 
+    "name": "Bald", 
+    "type": "Head", 
+    "rarity": "Uncommon", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/bald.png" 
+  },
+  { 
+    "name": "Angel Ring", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/angel-ring.png" 
+  },
+  { 
+    "name": "Texture", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/texture.png" 
+  },
+  { 
+    "name": "Slick Shaggy", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/slick-shaggy.png" 
+  },
+  { 
+    "name": "Two Blocks", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/two-blocks.png" 
+  },
+  { 
+    "name": "Bowl", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/bowl.png" 
+  },
+  { 
+    "name": "Afro", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/afro.png" 
+  },
+  { 
+    "name": "Mowhak", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/mowhak.png" 
+  },
+  { 
+    "name": "Cornrows", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/cornrows.png" 
+  },
+  { 
+    "name": "Faux Hawk", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/faux-hawk.png" 
+  },
+  { 
+    "name": "Neat", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/neat.png" 
+  },
+  { 
+    "name": "Undercut", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/undercut.png" 
+  },
+  { 
+    "name": "Curly", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/curly.png" 
+  },
+  { 
+    "name": "Mullet", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/mullet.png" 
+  },
+  { 
+    "name": "Dreadlocks", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/dreadlocks.png" 
+  },
+  { 
+    "name": "Mowhawk Short", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/mowhawk-short.png" 
+  },
+  { 
+    "name": "Pompadour", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/pompadour.png" 
+  },
+  { 
+    "name": "Comma", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/comma.png" 
+  },
+  { 
+    "name": "Messy Hair", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/messy-hair.png" 
+  },
+  { 
+    "name": "The Shadow Perm", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/the-shadow-perm.png" 
+  },
+  { 
+    "name": "Punk", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/punk.png" 
+  },
+  { 
+    "name": "Dread", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/dread.png" 
+  },
+  { 
+    "name": "Soft Layer", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/soft-layer.png" 
+  },
+  { 
+    "name": "Tape Fade", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/tape-fade.png" 
+  },
+  { 
+    "name": "Long Messy Hair", 
+    "type": "Head", 
+    "rarity": "Common", 
+    "image": "https://metadata.jlema.io/attributes/jlema/head/long-messy-hair.png" 
+  }
+]

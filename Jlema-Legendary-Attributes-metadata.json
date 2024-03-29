@@ -1,0 +1,32 @@
+[ 
+  { 
+    "name": "Male", 
+    "type": "Gender", 
+    "image": "https://metadata.jlema.io/attributes/jlema-legendary/gender/male.png" 
+  },
+  { 
+    "name": "Female", 
+    "type": "Gender", 
+    "image": "https://metadata.jlema.io/attributes/jlema-legendary/gender/female.png" 
+  },
+  { 
+    "name": "Common", 
+    "type": "Type", 
+    "image": "https://metadata.jlema.io/attributes/jlema-legendary/type/common.png" 
+  },
+  { 
+    "name": "Uncommon", 
+    "type": "Type", 
+    "image": "https://metadata.jlema.io/attributes/jlema-legendary/type/uncommon.png" 
+  },
+  { 
+    "name": "Collaboration", 
+    "type": "Type", 
+    "image": "https://metadata.jlema.io/attributes/jlema-legendary/type/collaboration.png" 
+  },
+  { 
+    "name": "Special", 
+    "type": "Type", 
+    "image": "https://metadata.jlema.io/attributes/jlema-legendary/type/special.png" 
+  }
+]
